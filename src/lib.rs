@@ -163,7 +163,7 @@ fn main_origin() {
     }
 }
 
-pub mod csbotnet {
+pub mod csbotnet_ai {
     use std::sync::Mutex;
 
     use crate::{
